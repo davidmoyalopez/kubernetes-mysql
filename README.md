@@ -1,2 +1,2 @@
-# kubernetes-mariadb
-Deploy MariaDB in kubernetes
+# kubernetes-mysql
+Deploy MySql in kubernetes
